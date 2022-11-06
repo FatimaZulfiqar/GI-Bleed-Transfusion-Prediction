@@ -1,6 +1,6 @@
 # GI-Bleed-Transfusion-Prediction
 
-The project calculates units of blood required for patient's tramsfusion based on several inputs such as
+The project calculates units of blood required for patient's transfusion based on several inputs such as
 
 - Gender
 - Age
