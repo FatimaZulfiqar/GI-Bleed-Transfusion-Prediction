@@ -24,29 +24,7 @@ Several Machine Learning Regressor models are applied to the dataset for model t
 
 # Obtained Results:
 
-Detailed Performance of all Models
-==================================
-
-+--------------------------+------+------+------+-------+
-|          Model           | MSE  | MAE  | RMSE |   R2  |
-+--------------------------+------+------+------+-------+
-|    Linear Regression     | 4.92 | 1.34 | 2.22 | -0.11 |
-|     Ridge Regression     | 4.49 | 1.25 | 2.12 | -0.01 |
-|     Lasso Regression     | 2.38 | 1.31 | 1.54 |  0.0  |
-| Random Forest Regression | 3.99 | 1.13 | 2.0  |  0.1  |
-| Decision Tree Regression | 5.53 | 1.28 | 2.35 | -0.25 |
-|     Extra Regression     | 4.35 | 1.23 | 2.09 |  0.02 |
-|    Bagging Regressor     | 4.05 | 1.09 | 2.01 |  0.09 |
-+--------------------------+------+------+------+-------+
-
-Best Model
-============
-
-+--------------------------+------+------+------+-----+
-|          Model           | MSE  | MAE  | RMSE |  R2 |
-+--------------------------+------+------+------+-----+
-| Random Forest Regression | 3.99 | 1.13 | 2.0  | 0.1 |
-+--------------------------+------+------+------+-----+
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/81231619/200164906-6f50a410-38b1-43bc-a349-2aa60449578e.png">
 
 
 # Deployment
