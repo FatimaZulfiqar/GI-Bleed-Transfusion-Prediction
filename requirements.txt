@@ -10,3 +10,4 @@ numpy
 pandas
 requests==2.24.0
 scikit-learn==0.23.1
+werkzeug==2.0.3
